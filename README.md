@@ -4,3 +4,6 @@
 
 :wave: Hi, I'm a mobile application programmer, working remotely.
 
+## What's mobile platform for me
+- feature phone: MIDP2.0/MEXA/DoJa
+- smart phone: Android/iOS
