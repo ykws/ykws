@@ -8,6 +8,9 @@
 - feature phone: MIDP2.0/MEXA/DoJa
 - smart phone: Android/iOS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Profile Summary
+[![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ykws&show_icons=true)
+Powered by [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
