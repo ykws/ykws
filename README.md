@@ -14,3 +14,9 @@
 [![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ykws/ykws/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 Powered by [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### LAPRAS
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
+Powered by [Lapras Card Generator](https://github.com/marketplace/actions/lapras-card-readme)
