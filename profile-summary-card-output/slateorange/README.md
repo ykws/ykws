@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ykws/ykws/main/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
